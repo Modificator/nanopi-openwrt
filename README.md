@@ -9,7 +9,7 @@
 [1分钟生成自己所需固件](#1分钟生成自己所需固件)  
 
 ### 下载地址：
-https://github.com/stupidloud/nanopi-openwrt/tags  
+https://github.com/Modificator/nanopi-openwrt/tags  
 (img.gz档不需要解压，可以直接使用刷机工具刷入)
 
 ### 使用提示：
@@ -19,7 +19,7 @@ https://github.com/stupidloud/nanopi-openwrt/tags
 
 ### 终端内在线升级方法：
 ```bash
-wget -qO- https://github.com/stupidloud/nanopi-openwrt/raw/master/scripts/autoupdate-bash.sh | bash
+wget -qO- https://github.com/Modificator/nanopi-openwrt/raw/master/scripts/autoupdate-bash.sh | bash
 ```
 slim版
 ```bash
